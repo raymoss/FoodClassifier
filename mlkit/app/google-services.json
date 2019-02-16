@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "408572699900",
+    "firebase_url": "https://food-nutrition-image.firebaseio.com",
+    "project_id": "food-nutrition-image",
+    "storage_bucket": "food-nutrition-image.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408572699900:android:d7e81c0007793e34",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.image_labeling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408572699900-n58bm24dch14ng432ho97fkductielkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk8PgRFrsiKSqjexxhuo-SXG07EG1DfZA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408572699900:android:09546560b4505797",
+        "android_client_info": {
+          "package_name": "com.google.firebase.samples.apps.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408572699900-n58bm24dch14ng432ho97fkductielkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk8PgRFrsiKSqjexxhuo-SXG07EG1DfZA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408572699900:android:6bd36bbca0582b11",
+        "android_client_info": {
+          "package_name": "com.google.firebase.samples.apps.mlkit.java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408572699900-n58bm24dch14ng432ho97fkductielkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk8PgRFrsiKSqjexxhuo-SXG07EG1DfZA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
